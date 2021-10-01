@@ -1,0 +1,88 @@
+ID,name,sex,type ,job title,films,video,range,home,Tatort
+AM,Alexandra Marinescu,2,1,1,1,2,99,1,2
+BM,Ben Muenchnow,1,1,1,2,2,99,1,1
+BG,Bernd Gnann,1,1,1,1,1,3,5,1
+CAG,Cem Ali Gueltekin,1,1,1,4,1,4,2,1
+CE,Christian Ehrich,1,1,1,2,2,99,1,1
+CS,Christine Sommer ,2,1,1,4,1,2,3,1
+CR,Claudia Rippe,2,1,1,1,1,2,1,2
+FK,Felix Klare ,1,1,1,4,1,2,4,1
+DB,Dietrich Brueggemann,1,1,3,3,1,2,1,1
+JKB,Joseph Konrad Bundschuh,1,1,1,3,2,99,1,1
+KT,Karoline Teska,2,1,1,4,1,2,1,1
+KS,Katharina Schlothauer,2,1,1,3,2,99,1,1
+KO,Kathrin Osterode,2,1,1,2,2,99,1,2
+KK,Kea Koenneker,2,1,1,1,1,2,1,2
+KD,Ken Duken,1,1,1,4,2,99,1,1
+KU,Kostja Ullmann,1,1,1,4,2,99,2,1
+MR,Manuel Rubey,1,1,1,4,2,99,3,1
+NO,Nicholas Ofczarek,1,1,1,4,2,99,1,1
+NG,Nina Gummich,2,1,1,3,1,4,6,1
+NP,Nina Proll,2,1,1,4,1,3,3,1
+PA,Pasquale Aleardi,1,1,1,4,2,99,1,1
+PB,Peri Baumeister,2,1,1,2,2,99,1,1
+RY,Ramin Yazdani,1,1,3,4,1,2,2,1
+RM,Richy Mueller,1,1,1,3,2,99,99,1
+RD,Roland Dueringer,1,1,1,2,1,2,99,2
+SD,Samia Dauenhauer,2,1,1,1,2,99,1,2
+MG,Markus Glaeser,1,1,1,2,2,99,1,2
+MB,Martin Brambach,1,1,1,5,2,99,7,1
+MM,Maxim Mehmet,1,1,1,4,1,3,1,1
+MBE,Meret Becker,2,1,1,3,2,99,1,1
+MS,Miriam Stein,2,1,1,2,1,3,1,2
+MAW,Monika Anna Wojtyllo,2,1,3,4,1,2,1,1
+ND,Nadine Dubois,2,1,1,2,2,99,1,1
+NU,Nadja Uhl,2,1,1,4,1,3,6,2
+TM,Thorsten Merten,1,1,1,5,2,99,1,1
+TMA,Tina Maria Aigner,2,1,1,1,1,3,1,2
+TP,Trystan Puetter,1,1,1,3,2,99,1,1
+UT,Ulrich Tukur,1,1,1,4,1,4,1,1
+UF,Ulrike Folkerts,2,1,1,4,2,99,1,1
+VK,Vicky Krieps,2,1,1,3,1,2,8,1
+VB,Volker Bruch,1,1,1,4,1,4,1,1
+WE,Werner Eng,1,1,1,1,1,2,1,2
+WWM,Wotan Wilke Moehring,1,1,1,5,1,3,9,1
+GVB,Gianna Valentina Bauer,2,1,1,3,1,2,4,2
+HZ,Hanns Zischler,1,1,1,5,1,3,1,1
+HM,Heike Makatsch,2,1,1,3,2,99,1,1
+IF,Inka Friedrich,2,1,1,5,2,99,1,1
+JJL,Jan Josef Liefers,1,1,3,5,1,4,1,1
+JP,Jeana Paraschiva,2,1,2,1,1,2,99,2
+JW,Jens Wawrczeck,1,1,3,1,2,99,99,1
+JBS,Joerg Bundschuh,1,1,3,2,2,99,1,1
+JB,Jose Barros,1,1,1,1,2,99,2,1
+164a,Tatort: Altlasten,0,2,0,0,0,0,0,1
+164b,Tatort: Ausweglos,0,2,0,0,0,0,0,1
+164c,Tatort: Das erste Opfer,0,2,0,0,0,0,0,1
+164d,Tatort: Das ist unser Haus,0,2,0,0,0,0,0,1
+164e,Tatort: Das Nest,0,2,0,0,0,0,0,1
+164f,Tatort: Dein Name Sei Harbinger,0,2,0,0,0,0,0,1
+164g,Tatort: Die dunkle Seite,0,2,0,0,0,0,0,1
+164h,Tatort: Die Ferien des Monsieur Murot,0,2,0,0,0,0,0,1
+164i,Tatort: Die harte Kern,0,2,0,0,0,0,0,1
+164j,Tatort: Die Sonne stirbt wie ein Tier,0,2,0,0,0,0,0,1
+164k,Tatort: Die Unsichtbare,0,2,0,0,0,0,0,1
+164l,Tatort: Die Wahrheit stirbt zuerst,0,2,0,0,0,0,0,1
+164m,Tatort: Ein Tag wie jeder andere,0,2,0,0,0,0,0,1
+164n,Tatort: Fette Krieger,0,2,0,0,0,0,0,1
+164o,Tatort: Feuerteufel,0,2,0,0,0,0,0,1
+164p,Tatort: HAL,0,2,0,0,0,0,0,1
+164q,Tatort: Heimwaerts,0,2,0,0,0,0,0,1
+164r,Tatort: Im Abseits,0,2,0,0,0,0,0,1
+164s,Tatort: In eigener Sache,0,2,0,0,0,0,0,1
+164t,Tatort: Leiden wie ein Tier,0,2,0,0,0,0,0,1
+164u,Tatort: Level X,0,2,0,0,0,0,0,1
+164v,Tatort: Murot und das Murmeltier,0,2,0,0,0,0,0,1
+164w,Tatort: Querschlaeger,0,2,0,0,0,0,0,1
+164x,Tatort: Rhythm And Love,0,2,0,0,0,0,0,1
+164y,Tatort: Schoen ist anders,0,2,0,0,0,0,0,1
+164z,Tatort: Schwarzer Afghane,0,2,0,0,0,0,0,1
+164aa,Tatort: Stau,0,2,0,0,0,0,0,1
+164ab,Tatort: Todesschuetze,0,2,0,0,0,0,0,1
+164ac,Tatort: Todesstrafe,0,2,0,0,0,0,0,1
+164ad,Tatort: Tyrannenmord,0,2,0,0,0,0,0,1
+164ae,Tatort: Unbestechlich,0,2,0,0,0,0,0,1
+164af,Tatort: Vermisst,0,2,0,0,0,0,0,1
+164ag,Tatort: Weg ins Paradies,0,2,0,0,0,0,0,1
+164ah,Tatort: Wie einst Lilly,0,2,0,0,0,0,0,1
+164ai,Tatort: Zorn Gottes,0,2,0,0,0,0,0,1
